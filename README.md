@@ -86,6 +86,10 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ⭐ Adicionando aos favoritos (**star**) 
 
+
+|testando o aprendizado obtido||[DIO.me](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/c333b076-7300-4939-b3ca-b5e0103e01d0?back=/track/gft-start-logica-de-programacao)|
+
+
 ### Membros da comunidade que já contribuiram:
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
